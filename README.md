@@ -1,6 +1,5 @@
-# Project Title
+# Light Feather Code Challenge
 
-**Light Feather Code Challenge**
 By Skylar Kuethe
 
 ## Table of Contents
