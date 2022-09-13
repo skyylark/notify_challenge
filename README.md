@@ -34,12 +34,12 @@ all nodule modules should be isntalled for both front and backend
 
 ### Docker
 
-run the following command at the root folder of the project.
+run the following command in PowerShell at the root folder of the project.
 
     docker-compose up
 
 it may take a minute or two for Docker to get both containers running
-You should see that the backend is loaded
+you should see the backend is loaded by the following message in the console.
 
 > Server is running at http://localhost:3001
 
