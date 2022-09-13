@@ -17,11 +17,11 @@ Linux may need to install it separately
 
 ### Installing node modules
 
-Running on Windows
+Running on Windows with PowerShell
 
 Clone the repo
 
-At the root folder of the project, run the following commands to get the node modules installed.
+At the root folder of the project, run the following commands in PowerShell to get the node modules installed.
 
 1.  cd backend/
 2.  npm i
