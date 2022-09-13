@@ -52,5 +52,5 @@ You can access http://localhost:3000 in your browser.
 ## Usage <a name = "usage"></a>
 
 Send notification to backend system.
-displays error is missing or invalid fields
+displays error if missing or invalid fields.
 Will display "Notification sent successfully" and clear all fields.
