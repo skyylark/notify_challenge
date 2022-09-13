@@ -11,7 +11,8 @@ By Skylar Kuethe
 
 ### Prerequisites
 
-Docker compose which should be installed with windows
+Docker compose:
+which should be installed with windows version of Docker
 
 Linux may need to install it separately
 
