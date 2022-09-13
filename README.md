@@ -18,8 +18,6 @@ Linux may need to install it separately
 
 ### Installing node modules
 
-A step by step series of examples that tell you how to get a development env running.
-
 Running on Windows
 
 Clone the repo
@@ -48,7 +46,7 @@ You should see that the backend is loaded
 
 Once React is loaded it should read
 
-> `Client_frontend | webpack complied successfully.`
+> Client_frontend | webpack complied successfully.
 
 You can access http://localhost:3000 in your browser.
 
